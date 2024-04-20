@@ -1,6 +1,10 @@
-#Hola
+# Hola
 ## MUCHO GUSTO
 ### jajaja
+
+- ay si
+- coño mondá
+- hola 3
 
 ¡Saludos! 👋 Soy [Tu Nombre]
 Tecnólogo en Administración y Desarrollo de Aplicaciones Informáticas en Proceso | Apasionado por la Tecnología y el Análisis de Datos
