@@ -1,3 +1,7 @@
+#Hola
+## MUCHO GUSTO
+### jajaja
+
 ¡Saludos! 👋 Soy [Tu Nombre]
 Tecnólogo en Administración y Desarrollo de Aplicaciones Informáticas en Proceso | Apasionado por la Tecnología y el Análisis de Datos
 Sobre Mí
@@ -17,3 +21,5 @@ Mi objetivo es seguir creciendo y desarrollándome como profesional en el campo 
 Estoy emocionado por las oportunidades de colaboración y aprendizaje que el futuro tiene reservado. Si estás buscando un profesional apasionado por la tecnología y el análisis de datos, ¡me encantaría hablar contigo!
 
 📧 [Correo Electrónico] | 🌐 [Enlace a LinkedIn]
+
+
