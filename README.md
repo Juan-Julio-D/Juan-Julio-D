@@ -3,7 +3,7 @@
 ### jajaja
 
 - ay si
-- coño mondá
+- fiuu
 - hola 3
 
 ¡Saludos! 👋 Soy [Tu Nombre]
